@@ -1,5 +1,15 @@
-# Environment-Setup
-OS, Git etc. 
+# Git, Github
+
+* Git is the toolkit for programming collaboration and version control.
+
+## Introduction
+
+* First thing first. Git is NOT the same as Github
+* Git is a version control system that is used to store and navigate information
+* Github is a web service that utilizes Git. There are other services similar to Github such as Bitbucket and Gitlab. Github is currently the most popular and the one we will all be using for this class.
+
+![git does not equal github](http://1.bp.blogspot.com/-WY2YpNr3W6g/UY6tZAc-H3I/AAAAAAAABLY/xJ9x3wIY8V8/s440/Github2.png)
+
 
 # Installing *Git* – the easy way
 
