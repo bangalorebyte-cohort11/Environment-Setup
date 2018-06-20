@@ -15,4 +15,5 @@ You must see "Welcome to Byte Dev. Ready to Rock n Roll"
 You can follow these instructions: 
 
 Linux: http://docs.python-guide.org/en/latest/starting/install3/linux/
+
 Mac: http://docs.python-guide.org/en/latest/starting/install3/osx/
