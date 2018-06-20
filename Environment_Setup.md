@@ -2,7 +2,7 @@
 
 Follow the instructions carefully for completing the environement setup for MAC and Linux Users. 
 
-1. git clone https://github.com/ByteAcademyIn/Environment_Setup.git
+1. git clone https://github.com/bangalorebyte-cohort11/Environment-Setup
 2. cd Environment_Setup
 3. For Full Stack Web Development Track - ./environment_setup.sh FULL_STACK_WEB 
 4. For Data Science Track - ./environment_setup.sh DATA_SCIENCE
